@@ -1,0 +1,1 @@
+DAPRA data can be downloaded directly from: https://github.com/CyberGrandChallenge/samples
